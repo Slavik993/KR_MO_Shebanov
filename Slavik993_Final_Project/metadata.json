@@ -4,7 +4,7 @@
     "handle": "@Slavik993",
     "group": "ИДс-23.1/Б3-23",
     "university": "МУ им. С.Ю. Витте",
-    "date": "20.11.2025 16:51",
+    "date": "20.11.2025 17:59",
     "dataset": "Sentiment140 (1.6M твитов)",
     "best_model": "LinearSVC",
     "best_f1": 0.7913,
